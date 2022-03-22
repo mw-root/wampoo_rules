@@ -30,7 +30,7 @@ When a piece is moved into the home area it is safe and can never move out.
 
 
 ### Cards
-The game is played with a standard deck of playing cards.
+The game is played with a standard deck of playing cards although there are [optional rules](/rules.md) and  [optional variations](/decks.md).
 
 All numeral cards allow you to move one peg forwards the same number of spaces as on the card with the following exceptions.
 
