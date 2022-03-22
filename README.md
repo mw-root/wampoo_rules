@@ -1,6 +1,6 @@
 # Objective
 
-Be the first player to get all 4 pegs home first.
+Be the first player to get all 4 pegs home.
 
 # Rules
 
