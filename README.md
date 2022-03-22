@@ -1,0 +1,1 @@
+# wampoo_rules
