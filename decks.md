@@ -2,8 +2,9 @@
 
 ## Rager Deck
 
-Add the following from a second deck:
+Add the all of the following cards from a second deck:
 - Jokers
+- Aces
 - Kings
 - Queens
 - Jacks
